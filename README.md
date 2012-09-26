@@ -1,17 +1,17 @@
 Project-2
 =========
-mkdir ~/Hello-World
-# Creates a directory for your project called "Hello-World" in your user directory
+mkdir ~/Project-2
+# Creates a directory for your project called "Project-2" in your user directory
 
 
-cd ~/Hello-World
+cd ~/Project-2
 # Changes the current working directory to your newly created directory
 
 
 git init
 # Sets up the necessary Git files
 
-# Initialized empty Git repository in /Users/you/Hello-World/.git/
+# Initialized empty Git repository in /Users/you/Project-2/.git/
 
 touch README
-# Creates a file called "README" in your Hello-World directory
+# Creates a file called "README" in your Project-2 directory
