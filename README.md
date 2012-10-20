@@ -10,14 +10,8 @@ cd ~/Project-2
 git init
 
 
-touch README
+
+git add Project-2.html
 
 
-git add README
-
-git commit -m 'first commit'
-
-git remote add origin https://github.com/username/Project-2.git
-
-git push origin master
 
